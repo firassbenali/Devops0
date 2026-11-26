@@ -222,6 +222,9 @@ pipeline {
 | CI/CD | Jenkins |
 | Conteneurisation | Docker *(à venir)* |
 
+
+HAW PINGA PINGA
+
 ---
 
 ## 👤 Auteur
