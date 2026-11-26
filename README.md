@@ -225,6 +225,8 @@ pipeline {
 
 HAW PINGA PINGA
 
+done
+
 ---
 
 ## 👤 Auteur
